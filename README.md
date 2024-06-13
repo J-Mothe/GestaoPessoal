@@ -20,17 +20,64 @@ Muitas pessoas enfrentam dificuldades para acompanhar suas finanças e tomar dec
 O projeto "Finanças" oferece uma solução completa para essa problemática, permitindo que os usuários registrem suas finanças de forma organizada e visualizem gráficos informativos para uma melhor compreensão de suas finanças pessoais.
 
 ## Tela de Login 
-- Tela simples de login
-- Cadastro
-- Login : Usuário e Senha
-<img width="960" alt="image" src="https://github.com/07Dalmaso/GestaoPessoal/assets/79981704/6b28b679-83a2-44ed-920f-9031e8be77fb">
+- Tela simples de login.
+- Login : Usuário e Senha.
+
+![Login](assets/img/Login.png)
+
+## Tela de Cadastro
+- Tela de cadastro com imagem.
+- Cadastro: Imagem, Nome, Email, Telefone, Endereço e Senha.
+
+![Login](assets/img/Cadastro.png)
 
 ## Tela principal 
-- Resumo de finanças, cartões, transações e investimentos
-<img width="960" alt="image" src="https://github.com/07Dalmaso/GestaoPessoal/assets/79981704/41963d7f-7e95-4727-98eb-ed03c764d8ba">
+- Home page.
+- Resumo de finanças, cartões, transações e investimentos.
+
+![Menu](assets/img/Menu.png)
 
 ## Tela Dashboard
--Tela
-<img width="960" alt="image" src="J-Mothe/GestaoPessoal/assets/img/Dashboard.png">
+- Dashboard dinâmico e interativo.
+- Possivel ver as despesas e receitas de cada ano ou filtrar informações para melhor visualização dos dados.
+
+![DashBoard Dinâmico](assets/img/Dashboard.png)
+
+## Tela Receitas
+- Cadastro das receitas.
+- Data, Descrição e Valor.
+- Lista ordenada pela data para melhor visualização.
+
+![Receitas](assets/img/Receita.png)
+
+## Tela Transações
+- Cadastro das transações.
+- Data, Descrição, Forma de pagamento (Se cartão,abre uma nova opção para selecionar qual cartão), Valor e categoria.
+- Lista ordenada pela data para melhor visualização.
+
+![Transações](assets/img/Transações.png)
+
+## Tela Categorias
+- Visualização por categoria das despesas.
+- Seleção de categoria para mais detalhes das despesas da mesma.
+
+![Categoria](assets/img/Categoria.png)
+
+## Tela Cartões
+- Cadastro de cartões.
+- Bandeira, Número, Nome no cartão, Validade, Código de segurança, Limite e Apelido.
+- Visualização dos cartões cadastrados.
+
+![Cartões](assets/img/Cartões.png)
+
+## Tela Perfil
+- Visualização do perfil logado.
+- Edição do mesmo.
+- Deslogar.
+
+![Perfil](assets/img/Perfil.png)
+
+
+
 
 
