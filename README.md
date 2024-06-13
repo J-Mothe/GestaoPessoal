@@ -30,5 +30,7 @@ O projeto "Finanças" oferece uma solução completa para essa problemática, pe
 <img width="960" alt="image" src="https://github.com/07Dalmaso/GestaoPessoal/assets/79981704/41963d7f-7e95-4727-98eb-ed03c764d8ba">
 
 ## Tela Dashboard
+-Tela
+<img width="960" alt="image" src="https://github.com/J-Mothe/GestaoPessoal/assets/img/Dashboard.png">
 
 
