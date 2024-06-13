@@ -2,6 +2,18 @@
 
 Bem-vindo ao projeto de Finanças, um site de gestão financeira desenvolvido com HTML, CSS, JavaScript e Node.js, com integração ao banco de dados não relacional MongoDB. Este projeto foi criado com o objetivo de fornecer uma ferramenta simples e eficaz para o gerenciamento de finanças pessoais. Com ele, você pode acompanhar suas despesas, receitas, cartões e ainda visualizar gráficos comparativos para uma melhor compreensão de sua situação financeira.
 
+Frameworks utilizados: 
+- Front end (HTML/CSS/JavaScript) : Foi utilizado Bootstrap para o desenvolvimento de interfaces web responsivas e móveis.
+- Back end (Node.js) : Foi utilizado Express que simplifica o processo de criação de servidores e APIs e o Mongoose que facilita a modelagem de dados e a interação com o MongoDB.
+
+Bibliotecas utilizadas: Além dos frameworks mencionados, há várias bibliotecas usadas no código, que fornecem funcionalidades específicas.
+- express-session: Gerenciamento de sessões.
+- cors: Habilitação de CORS.
+- moment: Manipulação e formatação de datas.
+- body-parser: Análise de corpos de requisições HTTP.
+- multer: Upload de arquivos.
+- jQuery: Manipulação de DOM e eventos no frontend.
+
  ## Funcionalidades Principais
 - **Cadastro de Cartões**: Adicione informações detalhadas sobre seus cartões de crédito ou débito, como número, data de vencimento e limite de crédito.
 
