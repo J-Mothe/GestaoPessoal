@@ -31,6 +31,6 @@ O projeto "Finanças" oferece uma solução completa para essa problemática, pe
 
 ## Tela Dashboard
 -Tela
-<img width="960" alt="image" src="https://github.com/J-Mothe/GestaoPessoal/assets/img/Dashboard.png">
+<img width="960" alt="image" src="J-Mothe/GestaoPessoal/assets/img/Dashboard.png">
 
 
