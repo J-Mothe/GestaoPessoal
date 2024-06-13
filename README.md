@@ -21,13 +21,13 @@ O projeto "Finanças" oferece uma solução completa para essa problemática, pe
 
 ## Tela de Login 
 - Tela simples de login.
-- Login : Usuário e Senha.
+- Login : Usuário e senha.
 
 ![Login](assets/img/Login.png)
 
 ## Tela de Cadastro
 - Tela de cadastro com imagem.
-- Cadastro: Imagem, Nome, Email, Telefone, Endereço e Senha.
+- Cadastro: Imagem, nome, email, telefone, endereço e senha.
 
 ![Login](assets/img/Cadastro.png)
 
@@ -45,14 +45,14 @@ O projeto "Finanças" oferece uma solução completa para essa problemática, pe
 
 ## Tela Receitas
 - Cadastro das receitas.
-- Data, Descrição e Valor.
+- Data, descrição e valor.
 - Lista ordenada pela data para melhor visualização.
 
 ![Receitas](assets/img/Receita.png)
 
 ## Tela Transações
 - Cadastro das transações.
-- Data, Descrição, Forma de pagamento (Se cartão,abre uma nova opção para selecionar qual cartão), Valor e categoria.
+- Data, descrição, forma de pagamento (Se cartão, abre uma nova opção para selecionar qual cartão), valor e categoria.
 - Lista ordenada pela data para melhor visualização.
 
 ![Transações](assets/img/Transações.png)
@@ -65,7 +65,7 @@ O projeto "Finanças" oferece uma solução completa para essa problemática, pe
 
 ## Tela Cartões
 - Cadastro de cartões.
-- Bandeira, Número, Nome no cartão, Validade, Código de segurança, Limite e Apelido.
+- Bandeira, número, nome no cartão, validade, código de segurança, limite e apelido.
 - Visualização dos cartões cadastrados.
 
 ![Cartões](assets/img/Cartões.png)
